@@ -55,7 +55,7 @@ AssetHub is a centralized platform for managing shared resources such as DSLR ca
 
 **Step 1: Clone the repository**
 ```bash
-git clone https://github.com/yourusername/project.git
+git clone https://github.com/Kushwant-mk/ASSET-MANAGEMENT.git
 cd asset-management
 ```
 
@@ -100,7 +100,7 @@ http://localhost:5173
 ### Method 2: Docker (One command)
 
 ```bash
-git clone https://github.com/yourusername/project.git
+git clone https://github.com/Kushwant-mk/ASSET-MANAGEMENT.git
 cd asset-management
 docker-compose up --build
 ```
